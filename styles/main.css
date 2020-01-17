@@ -1,0 +1,43 @@
+
+body {
+  background-color: darkgreen;
+}
+
+/* SOCIAL */
+.links {
+padding: 0.5rem;
+display: flex;
+justify-content: center;
+margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#link-button {
+  color:  #1a1a1a;
+  padding: 6px;
+  font-size: 4em;
+}
+
+/* YEAH */
+.yeah {
+  padding: 0.5rem;
+  display: flex;
+  justify-content: center;
+  margin-top: 1em;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+p {
+  font-family: "Roboto";
+  color:   #1a1a1a;
+  font-size: 0.85em;
+  text-align: center;
+}
